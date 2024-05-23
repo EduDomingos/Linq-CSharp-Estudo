@@ -1,0 +1,15 @@
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\bin\Debug\net8.0\Estudo-Linq.exe
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\bin\Debug\net8.0\Estudo-Linq.deps.json
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\bin\Debug\net8.0\Estudo-Linq.runtimeconfig.json
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\bin\Debug\net8.0\Estudo-Linq.dll
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\bin\Debug\net8.0\Estudo-Linq.pdb
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\obj\Debug\net8.0\Estudo-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\obj\Debug\net8.0\Estudo-Linq.AssemblyInfoInputs.cache
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\obj\Debug\net8.0\Estudo-Linq.AssemblyInfo.cs
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\obj\Debug\net8.0\Estudo-Linq.csproj.CoreCompileInputs.cache
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\obj\Debug\net8.0\Estudo-Linq.sourcelink.json
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\obj\Debug\net8.0\Estudo-Linq.dll
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\obj\Debug\net8.0\refint\Estudo-Linq.dll
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\obj\Debug\net8.0\Estudo-Linq.pdb
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\obj\Debug\net8.0\Estudo-Linq.genruntimeconfig.cache
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Estudo-Linq\obj\Debug\net8.0\ref\Estudo-Linq.dll
